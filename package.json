@@ -1,0 +1,27 @@
+{
+  "name": "video-idea-website",
+  "version": "1.0.0",
+  "description": "App to create video ideas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivoryblakk/Video-Idea-Website.git"
+  },
+  "author": "George I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivoryblakk/Video-Idea-Website/issues"
+  },
+  "homepage": "https://github.com/ivoryblakk/Video-Idea-Website#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.1.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.4",
+    "babel-core": "^6.26.3"
+  }
+}
